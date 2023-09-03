@@ -14,16 +14,16 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = '' // QueenNilu;;;BigBTY6R#TYAMADk4ypKgjRlT33i5L-WON6_FYbo-lYSEyW5PZoY
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = ''postgres://shehan_nyvy_user:0J2cY2q845whR7E95wqkQtPeXMxwSxJV@dpg-cjq7cjojbais738qqn5g-a/shehan_nyvy
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94713856912'
 
 global.OWNER_NAME = 'Janiya_X'
 
@@ -31,7 +31,7 @@ global.TIMEZONE = 'Asia/Colombo'
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -43,7 +43,7 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
-global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE =  true  //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
@@ -61,13 +61,13 @@ global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
 global.MAX_SIZE = '200' // Bot Uloading Max size 
 
-global.ANTI_BAD = false // Antibad (on = True , Off = False )
+global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true
 
-global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
+global.ANTI_LINK = 'true' //Anti Link (on = True , Off = False )
 
-global.ANTI_BOTS = true
+global.ANTI_BOTS = truepostgres://true
 
 global.ONLY_GROUP = 'ture' // Only group mode
 
