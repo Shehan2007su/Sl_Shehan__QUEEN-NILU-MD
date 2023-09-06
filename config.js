@@ -1,6 +1,6 @@
 /*
 WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
+WHATSAPP - 94713856912
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
